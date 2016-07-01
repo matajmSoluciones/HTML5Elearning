@@ -1,17 +1,12 @@
-/*
-  Bienvenidos al primer contenido de la capacitación, por ahora ya tienen los fundamentos básicos de la programación pero ahora veremos
-  un avance de lo que son paradigmas de programación a eventos en Javascript y luego avanzaremos a diferentes lenguajes de programación
-  para ello crearemos un pequeño ejercicio de mostrar un mensaje al presionar clic en un boton.
-  
-  ==================================== Programación Orientada a Eventos =========================================
-  Describiendolo en simples palabras es el estudio de la ejecución de una acción y respuesta ante la situación presentada, o también
-  podemos definirla como el analisis de la escucha y llamada de una acción.
-  
-  Un ejemplo muy claro de ello es la comunicación entre los seres vivos. Tenemos una serie de elementos que definen la comunicación:
-  - El emisor
-  -El receptor
-  - El canal (ambiente)
-  - Código (lenguaje)
+#Bienvenidos al primer contenido de la capacitación
+Por ahora ya tienen los fundamentos básicos de la programación pero ahora veremos un avance de lo que son paradigmas de programación a eventos en Javascript y luego avanzaremos a diferentes lenguajes de programación para ello crearemos un pequeño ejercicio de mostrar un mensaje al presionar clic en un boton.
+#Programación Orientada a Eventos
+Es el estudio de la ejecución de una acción y respuesta ante la situación presentada, o también podemos definirla como el analisis de la escucha y llamada de una acción.
+Un ejemplo muy claro de ello es la comunicación entre los seres vivos. Tenemos una serie de elementos que definen la comunicación:
+- El emisor
+-El receptor
+- El canal (ambiente)
+- Código (lenguaje)
   
   En programación esto se ve claramente en los eventos donde se ejecuta un push (empuje) al sistema para notificar de una acción.
   
@@ -23,6 +18,13 @@
   Un Disparo (Dispatch) es la acción de ejecutar la llamada realizada por otra función.
   
   Es confuso entender estos conceptos al principio pero en la práctica se observará con mas calma.
+/*
+ 
+  
+  ====================================  =========================================
+  
+  
+  
 */
 //seleccionamos el elemento del Document Object Manipulation (DOM) el nodo que posea el atributo id con el valor "boton"
 var a=document.getElementById("boton");
