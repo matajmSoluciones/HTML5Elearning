@@ -1,2 +1,81 @@
-# HTML5Elearning
-Tutoriales prácticos de ejercicios cotidianos en programación
+#Bienvenidos a HTML5Elearning
+Aquí se desarrollarán una serie de tutoriales avanzados en programación avanzada sobre las nuevas tecnologías web, por ello desarrollaremos aplicaciones simples que involucren el sentido de la lógica y del entendimiento de la semantica en programación.
+##¿Qué necesitas saber en estos tutoriales?
+Como investigador deberás aprender sobre los fundamentos de la programación y conocer la semantica estandar en los lenguajes de programación existentes.
+#Contenidos
+- Tutorial 1.- Programación Orientada a Eventos
+-  1.1 Fundamentos básicos de los Eventos
+-  1.2 Eventos de Interfaz
+-  1.3 Eventos Personalizados
+-  1.4 Disparadores de Eventos
+-  1.5 transferencia de datos en Eventos
+-  1.6 Desarrollar un juego de memoria basado en Eventos  
+- Tutorial 2.- Programación Orientada a Objetos
+- 2.1 Fundamentos básicos de una clase
+- 2.2 Constructores / Destructores
+- 2.3 Polimorfismo
+- 2.4 Recolección de basura / Abstracción
+- 2.5 Eventosy Objetos
+- 2.6 Multiparadigmas de la realidad
+- 2.7 Desarrollar una aplicación contador de calorias
+- Tutorial 3.- Prototipos en Javascript
+- 3.1 Asignar/reemplazar/eliminar una propiedad
+- 3.2 bloquear una propiedad
+- 3.3 Object Prototype
+- Tutorial 4.- Creación de librerias y Framework
+- 4.1 Fundamentos de una librería/Framework
+- 4.2 Maquetación
+- 4.3 Diferencias
+- 4.4 Describir 5 caracteristicas internas de JQuery que tiene javascript
+- Tutorial 5.- The Document Object Manipulation Level 3
+- 5.1 Selectores CSS3 Avanzados
+- 5.2 Selectores javascript Avanzados
+- 5.3 navegación entre nodos
+- 5.4 Animaciones y transiciones CSS3
+- 5.5 Canvas y SVG
+- 5.6 requestAnimationFrame
+- 5.7 Creación/modificación/eliminación de multiples nodos
+- Tutorial 6.- Programación Asincrona
+- 6.1 Fundamentos básicos
+- 6.2 Hilos de procesos
+- 6.3 Interval
+- 6.4 WebWorkers
+- 6.5 Bucles Asincrónos
+- 6.6 Modulos Multitareas
+- Tutorial 7.- Almacenamiento Web y estructuras de datos complejas
+- 7.1 localStorage / sessionStorage
+- 7.2 indexedDB
+- 7.3 cookies
+- 7.4 JSON
+- 7.5 Arrays Tipeados
+- 7.6 ArrayBuffer
+- 7.7 transferencia de punteros
+- Tutorial 8.- History Api
+-  Tutorial 9.- MediaDevices
+-  9.1 Captura de camara y microfono
+-  9.2 manejo de perifericos I/O básicos
+-  9.3 Gamepad control
+-  9.4 geoLocalización
+-  Tutorial 10 Ajax 2
+-  10.1 Fundamentos básicos
+-  10.2 Eventos XMLHTTPRequest
+-  10.3 Envio y recepción de datos
+- Tutorial 11.- ECMAScript 6 (ES6), el nuevo estándar de JavaScript
+- Tutorial 12.- Node.js
+- 12.1 Fundamentos básicos
+- 12.2 Librerias y comandos básicos
+- 12.3 Diferencias entre PHP y node.js
+- 12.4 WebSocket IOExpress
+- Tutorial 13.- SQL
+- 13.1 Fundamentos básicos
+- 13.2 consultas complejas y Anidadas
+- 13.3 funciones
+- 13.4 PHP y SQL
+- Tutorial 14.- Maquetación Web
+- Tutorial 15.- Diseño Gráfico
+- Tutorial 16.- Desarrollo de Aplicaciones Web
+- 16.1 Fundamentos de las WebApp
+- 16.2 Desarrollo de WebApp
+- 16.3 Desarrollar una WebApp
+- Tutorial 17.- Metodología SCRUM
+- Iniciar Desarrollo.
