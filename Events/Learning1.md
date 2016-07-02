@@ -32,8 +32,9 @@ Recomendamos addEventListener por su dinamica a la hora de ejecutar eventos.
 
 Existen dos tipos de eventos en POE(programación Orientada a Eventos):
 
--De interfaz
--Definidas por el usuario (programador)
+- De interfaz
+- Definidas por el usuario (programador)
+
 Los eventos de interfaz son genericos en los diferentes lenguajes de programación, entre ellos tenemos:
 - click ( hacer clic a un elemento)
 - mousedown (al presionar el mouse sobre un elemento)
